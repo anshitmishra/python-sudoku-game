@@ -18,6 +18,11 @@ import PyQt5
 ```
 ## play sudoku if get stuck press solve it will solved
 
+## project screenshot
+
+![screenshoot](https://github.com/anshitmishra/python-sudoku-game/blob/main/image/Screenshot.png?raw=true)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
